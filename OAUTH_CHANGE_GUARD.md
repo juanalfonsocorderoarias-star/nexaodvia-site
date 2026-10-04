@@ -16,6 +16,9 @@ No cambiar en Google Cloud Console sin una revisión previa:
 
 Google indica que cambiar detalles de branding como logo, nombre, homepage, Privacy Policy URI o dominios autorizados crea un estado de **Draft Branding** que debe volver a verificarse/publicarse antes de sustituir el branding ya publicado.
 
+Referencia oficial consultada (2026-10-04):
+`https://developers.google.com/identity/protocols/oauth2/production-readiness/brand-verification`
+
 ## Cambios web que no tocan la configuración OAuth
 Se puede mantener actualizado el contenido de las páginas existentes en `nexaodvia.com` siempre que:
 
