@@ -27,3 +27,7 @@ Los cambios legales/Play se preparan primero en rama y PR. No se fusionan a `mai
 
 ## Referencia de políticas
 Las notas de preparación Play/OAuth de esta rama fueron contrastadas con documentación oficial vigente al **4 de octubre de 2026**. Deben revalidarse justo antes del envío final a Play Console.
+
+## Estado actual
+Rama de trabajo: `legal-oauth-prep`.
+PR: `#1 Prepare NeXA legal, OAuth and Play compliance pages` (Draft).
