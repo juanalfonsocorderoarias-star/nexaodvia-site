@@ -24,3 +24,6 @@ La preparación de Google Play no debe modificar por defecto la configuración O
 
 ## Flujo de publicación
 Los cambios legales/Play se preparan primero en rama y PR. No se fusionan a `main` hasta revisar que las rutas públicas actuales siguen siendo las mismas que usa OAuth y que no existe un cambio de branding/scopes pendiente.
+
+## Referencia de políticas
+Las notas de preparación Play/OAuth de esta rama fueron contrastadas con documentación oficial vigente al **4 de octubre de 2026**. Deben revalidarse justo antes del envío final a Play Console.
