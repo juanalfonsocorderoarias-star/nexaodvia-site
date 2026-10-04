@@ -21,3 +21,6 @@ Sitio público de NeXA ODVIA (`nexaodvia.com`) y documentación interna para man
 
 ## Regla OAuth
 La preparación de Google Play no debe modificar por defecto la configuración OAuth ya verificada. Cualquier cambio de nombre, logo, URLs, dominios, redirect URIs o scopes se evalúa primero con `OAUTH_CHANGE_GUARD.md`.
+
+## Flujo de publicación
+Los cambios legales/Play se preparan primero en rama y PR. No se fusionan a `main` hasta revisar que las rutas públicas actuales siguen siendo las mismas que usa OAuth y que no existe un cambio de branding/scopes pendiente.
